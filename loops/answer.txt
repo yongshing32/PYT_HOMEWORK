@@ -1,0 +1,7 @@
+Answer 
+
+1. Nested loop is loop inside another loop
+2. While loop
+3. For loop
+4. Yes. Use for character in "string"
+5. Yes. Is depend on the needs, I guess. 
